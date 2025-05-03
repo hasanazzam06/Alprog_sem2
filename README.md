@@ -1,4 +1,4 @@
-# Case Study
+# Case Study (CS)
 - Modul 1 : https://hackmd.io/@michonas/rJamOTqKkl
 - Modul 2 : https://hackmd.io/@michonas/BJxBFKN5Jg
 - Modul 3 : https://hackmd.io/@michonas/Sk7W46p9ke
@@ -9,7 +9,7 @@
 - Modul 8 : https://hackmd.io/@michonas/r1wnstvygg
 - Modul 9 : https://hackmd.io/@michonas/rkcsL6ggel
 
-# Tugas Pendahuluan
+# Tugas Pendahuluan (TP)
 
 - Modul 1 : https://hackmd.io/@michonas/S1CraZVKJx
 - Modul 2 : https://hackmd.io/@michonas/HkT3rY6t1x
