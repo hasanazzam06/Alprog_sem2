@@ -1,13 +1,13 @@
 # Case Study (CS)
-- Modul 1 : https://hackmd.io/@michonas/rJamOTqKkl
-- Modul 2 : https://hackmd.io/@michonas/BJxBFKN5Jg
-- Modul 3 : https://hackmd.io/@michonas/Sk7W46p9ke
-- Modul 4 : https://hackmd.io/@michonas/Sk2WmeDs1x
-- Modul 5 : https://hackmd.io/@michonas/HyfpnQg2Je
-- Modul 6 : https://hackmd.io/@AkiraShogun/rJSKsiI9ke
-- Modul 7 : https://hackmd.io/@michonas/rJ0uxry1lg
-- Modul 8 : https://hackmd.io/@michonas/r1wnstvygg
-- Modul 9 : https://hackmd.io/@michonas/rkcsL6ggel
+- Modul 1 (Introduction to C) : https://hackmd.io/@michonas/rJamOTqKkl
+- Modul 2 (Array and Function) : https://hackmd.io/@michonas/BJxBFKN5Jg
+- Modul 3 (Pointer) : https://hackmd.io/@michonas/Sk7W46p9ke
+- Modul 4 (Structs) : https://hackmd.io/@michonas/Sk2WmeDs1x
+- Modul 5 (Linked List, Stack, Queue) : https://hackmd.io/@michonas/HyfpnQg2Je
+- Modul 6 (Searching) : https://hackmd.io/@AkiraShogun/rJSKsiI9ke
+- Modul 7 (Sorting) : https://hackmd.io/@michonas/rJ0uxry1lg
+- Modul 8 (Class, Object) : https://hackmd.io/@michonas/r1wnstvygg
+- Modul 9 (Socket Programming) : https://hackmd.io/@michonas/rkcsL6ggel
 
 # Tugas Pendahuluan (TP)
 
